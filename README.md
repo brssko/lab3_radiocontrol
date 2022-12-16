@@ -7,3 +7,4 @@
 Інструкція зі встановлення файлів для проекту знаходиться у \Lib\readme.txt
 
 Демонстрація роботи системи:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VCkSOyQbLjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
